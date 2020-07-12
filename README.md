@@ -1,6 +1,4 @@
-## Ariel Ayala
-
-[Twitter _ariel_ayala](https://twitter.com/_ariel_ayala)
+## Ariel Ayala | [_ariel_ayala](https://twitter.com/_ariel_ayala)
 
 ---
 ***Web development***
