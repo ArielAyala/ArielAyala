@@ -5,8 +5,6 @@
 ---
 ***Web development***
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [Fecoprod](http://www.fecoprod.com.py/portal/es-py)
-- 🌱 I’m currently learning JavaScript, React, Angular, C#, Python
+- 🔭 I’m currently working on [Fecoprod](http://www.fecoprod.com.py/portal/es-py) (App developer)
+- 🌱 I’m currently learning JavaScript, React, Angular, C#, Python, Ionic
 
