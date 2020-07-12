@@ -7,5 +7,5 @@
 - My recent practice projects...
   * [Blog react_redux](https://github.com/ArielAyala/blog_platzi_react_redux) 
   * [Player Music Ionic](https://github.com/ArielAyala/player-music-ionic) 
-  * [Conceptos de estrategia de aprendizaje online - Reac Redux](https://github.com/ArielAyala/conceptos-curso-de-estrategias-aprendizaje-platzi-en-react) 
+  * [Conceptos de estrategia de aprendizaje online - React Redux](https://github.com/ArielAyala/conceptos-curso-de-estrategias-aprendizaje-platzi-en-react) 
   
