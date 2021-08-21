@@ -2,8 +2,8 @@
 ---
 ***Web development***
 
-- 🔭 I’m currently working on [Fecoprod](http://www.fecoprod.com.py/portal/es-py) (Web/App developer)
-- 🌱 I’m currently learning JavaScript, React, Angular, C#, Python, Ionic
+- 🔭 Working on [Fecoprod](http://www.fecoprod.com.py/portal/es-py) (Web/App developer)
+- 🌱 Learning JavaScript, React, Angular, C#, Python, Ionic
 - My recent practice projects...
   * [Twittor PWA](https://github.com/ArielAyala/twittor-chat-pwa) 
   * [Blog react_redux](https://github.com/ArielAyala/blog_platzi_react_redux) 
