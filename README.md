@@ -11,6 +11,6 @@
   * [Player Music Ionic](https://github.com/ArielAyala/player-music-ionic) 
   * [Conceptos de estrategia de aprendizaje online - React Redux](https://github.com/ArielAyala/conceptos-curso-de-estrategias-aprendizaje-platzi-en-react) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielAyala)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielAyala&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
   
