@@ -13,4 +13,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielAyala&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielAyala)](https://github.com/ArielAyala/github-readme-stats)
+
+
+
+
   
