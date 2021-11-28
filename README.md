@@ -7,6 +7,7 @@
 - 🔭 Working on [Fecoprod](http://www.fecoprod.com.py/portal/es-py) (Web/App developer)
 - 🌱 Learning JavaScript, React, Angular, C#, Python, Ionic
 - My recent practice projects...
+  * [Cacular de cuotas - sistema francés](https://github.com/ArielAyala/calculador-cuotas-sistema-frances)
   * [Twittor PWA](https://github.com/ArielAyala/twittor-chat-pwa) 
   * [Crypto Tracker](https://github.com/ArielAyala/crypto-tracker-react-native)
   * [Blog react_redux](https://github.com/ArielAyala/blog_platzi_react_redux) 
