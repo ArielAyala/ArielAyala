@@ -4,7 +4,7 @@
 
 [View profile summary](https://profile-summary-for-github.com/user/ArielAyala)
 
-- 🔭 Working on [Fecoprod](http://www.fecoprod.com.py/portal/es-py) (Web/App developer)
+- 🔭 Working on [Lithium](https://lithiumsoft.com/) (Web/App developer)
 - 🌱 Learning JavaScript, React, Angular, C#, Python, Ionic
 - My recent practice projects...
   * [Cacular de cuotas - sistema francés](https://github.com/ArielAyala/calculador-cuotas-sistema-frances)
