@@ -4,7 +4,7 @@
 
 [View profile summary](https://profile-summary-for-github.com/user/ArielAyala)
 
-- 🔭 Working on [Lithium](https://lithiumsoft.com/) as full stack developer, using Netcore and Angular
+- 🔭 Working on [Lithium](https://lithiumsoft.com/) as full stack developer, using Netcore and Angular, Blazor, Sql Server and MySql
 - 🌱 Learning JavaScript, React, Angular, C#, Python, Ionic
 - My recent practice projects...
   * [Cacular de cuotas - sistema francés](https://github.com/ArielAyala/calculador-cuotas-sistema-frances)
