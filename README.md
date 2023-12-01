@@ -1,6 +1,9 @@
 ## Ariel Ayala | [_ariel_ayala](https://twitter.com/_ariel_ayala)
 ---
-***Web development***
+***Software Engineer***
+
+[![committers.top badge](https://user-badge.committers.top/paraguay/ArielAyala.svg)](https://user-badge.committers.top/paraguay/ArielAyala)
+
 
 [View profile summary](https://profile-summary-for-github.com/user/ArielAyala)
 
