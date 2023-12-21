@@ -3,6 +3,8 @@
 **Software Engineer | Angular | Netcore**
 
 [![committers.top badge](https://user-badge.committers.top/paraguay/ArielAyala.svg)](https://user-badge.committers.top/paraguay/ArielAyala)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/_ariel_ayala?style=social)](https://twitter.com/_ariel_ayala)
+[![Social Accounts](https://img.shields.io/badge/Social%20Accounts-arielayala.bio.link-blue)](arielayala.bio.link)
 
 
 [View profile summary](https://profile-summary-for-github.com/user/ArielAyala)
@@ -20,6 +22,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielAyala&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielAyala)](https://github.com/ArielAyala/github-readme-stats)
+
+
+
 
 
 
