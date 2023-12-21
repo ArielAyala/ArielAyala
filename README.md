@@ -1,6 +1,6 @@
 ## Ariel Ayala | [_ariel_ayala](https://twitter.com/_ariel_ayala)
 ---
-***Software Engineer***
+**Software Engineer | Angular | Netcore**
 
 [![committers.top badge](https://user-badge.committers.top/paraguay/ArielAyala.svg)](https://user-badge.committers.top/paraguay/ArielAyala)
 
