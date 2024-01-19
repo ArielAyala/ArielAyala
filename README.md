@@ -1,4 +1,4 @@
-## Ariel Ayala | [_ariel_ayala](https://twitter.com/_ariel_ayala)
+## [Ariel Ayala](https://arielayala.bio.link/)
 ---
 **Software Engineer | Angular | Netcore**
 
