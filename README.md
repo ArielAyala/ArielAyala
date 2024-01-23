@@ -12,6 +12,7 @@
 - 🔭 Working on [Lithium](https://lithiumsoft.com/) as full stack developer, using Netcore and Angular, Blazor, Sql Server and MySql
 - 🌱 Learning JavaScript, React, Angular, C#, Python, Ionic
 ### My recent practice projects...
+  * [Store using Angular 17](https://github.com/ArielAyala/store-angular-17)
   * [Store made using blazor](https://github.com/ArielAyala/StoreBlazor/)
   * [Calculate Loan Installments - French System](https://arielayala.github.io/calculate-loan-installments-french-system/)
   * [Twittor PWA](https://github.com/ArielAyala/twittor-chat-pwa) 
