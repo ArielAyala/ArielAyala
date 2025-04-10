@@ -2,9 +2,16 @@
 ---
 **Software Engineer | Angular | Netcore**
 
-[![committers.top badge](https://user-badge.committers.top/paraguay/ArielAyala.svg)](https://user-badge.committers.top/paraguay/ArielAyala)
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/_ariel_ayala?style=social)](https://twitter.com/_ariel_ayala)
-[![Social Accounts](https://img.shields.io/badge/Social%20Accounts-arielayala.bio.link-blue)](https://arielayala.bio.link)
+<a href="https://user-badge.committers.top/paraguay/ArielAyala" target="_blank">
+  <img src="https://user-badge.committers.top/paraguay/ArielAyala.svg" alt="committers.top badge">
+</a>
+<a href="https://twitter.com/_ariel_ayala" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/_ariel_ayala?style=social" alt="Follow me on Twitter">
+</a>
+<a href="https://arielayala.bio.link" target="_blank">
+  <img src="https://img.shields.io/badge/Social%20Accounts-arielayala.bio.link-blue" alt="Social Accounts">
+</a>
+
 
 
 [View profile summary](https://profile-summary-for-github.com/user/ArielAyala)
