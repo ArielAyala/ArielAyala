@@ -19,6 +19,8 @@
 - 🔭 Working on [IzyTech](https://izytech.com/) as full stack developer, using Netcore and Angular, Ionic.
 - 🌱 Learning Python, React, NodeJs, C#, Javascript
 ### My recent practice projects...
+
+  * [Barbershop Appointment App](https://github.com/ArielAyala/barbershop-appointment-app-ionic-angular)
   * [Heart Disease Prediction](https://github.com/ArielAyala/heart-disease-prediction-python)
   * [Personal website - Portfolio](https://github.com/ArielAyala/portfolio-nextjs)
   * [Store using Angular 17](https://github.com/ArielAyala/store-angular-17)
