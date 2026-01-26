@@ -20,6 +20,7 @@
 - 🌱 Learning Python, React, NodeJs, C#, Javascript
 ### My recent practice projects...
 
+  * [Buy Crypto Ledger](https://github.com/ArielAyala/BuyCryptoLedger-react-netcore8)
   * [Barbershop Appointment App](https://github.com/ArielAyala/barbershop-appointment-app-ionic-angular)
   * [Heart Disease Prediction](https://github.com/ArielAyala/heart-disease-prediction-python)
   * [Personal website - Portfolio](https://github.com/ArielAyala/portfolio-nextjs)
